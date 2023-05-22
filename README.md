@@ -7,3 +7,4 @@ Conception d'un site à l'aide du Framework Laravel. Ce site nous propose plusie
    - un Gestionnaire lui peut supprimer crée modifer et supprimmer : un cours, un enseignant, un éleve et à les memes autorisation qu'un enseignant.
   
   Les notions de pointeur sont utilisées.
+ 
